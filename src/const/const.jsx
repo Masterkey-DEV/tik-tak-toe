@@ -1,6 +1,6 @@
 export const TURNOS = {
-  x: "X",
-  o: "O",
+  x: "❌",
+  o: "⚪",
 };
 
 export const GANADORES = [

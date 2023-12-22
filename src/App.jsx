@@ -36,7 +36,6 @@ function App() {
     if (arr.every((element) => element != null)) {
       setGanador(false);
       setModalVisible(true);
-      console.log("empate");
     }
   };
 
